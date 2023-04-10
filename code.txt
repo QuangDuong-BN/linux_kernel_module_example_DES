@@ -1,0 +1,3 @@
+sudo insmod chuong3.ko 
+sudo rmmod chuong3
+sudo dmesg
